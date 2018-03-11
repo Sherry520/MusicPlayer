@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="playing">正在播放</string>
+    <string name="all_musics">全部歌曲</string>
+    <string name="my_love">我的最爱</string>
+    <string name="zuijinplay">最近播放</string>
+    <string name="file">文件夹</string>
+    <string name="zhujiemian">点击正在播放界面，进入正在播放界面；
+    \n点击全部歌曲进入全部歌曲界面；
+    \n点击我的最爱进入我的最爱界面；
+    \n点击最近播放界面进入最近播放界面；
+    \n点击文件进入文件界面</string>
+    <string name="playingjiemian">该界面上方届时将显示正在播放的歌曲的内容（歌词及背景图片）；
+        \n点击上一曲播放上一个歌曲；\n点击下一曲播放下一首歌；
+    \n点击暂停停止播放；再点击暂停再次播放；\n届时暂停播放按钮会自动转换；
+    \n点击收藏会将当前播放歌曲加入我的最爱的歌曲目录；
+        \n点击列表进入全部歌曲界面,现在你可以点击列表按钮
+    </string>
+    <string name="shoucang">收藏</string>
+    <string name="shangyiqu">上一曲</string>
+    <string name="xiayiqu">下一曲</string>
+    <string name="bofang">播放</string>
+    <string name="list">列表</string>
+    <string name="allmusicjiemian">该界面上方届时将会显示所有歌曲的歌名、歌手及相关信息
+    \n点击正在播放进入正在播放界面</string>
+    <string name="filejiemian">该界面用于加载设备内存中已有的歌曲的目录</string>
+    <string name="mylovejiemian">该界面用于显示收藏的歌曲</string>
+    <string name="zuijinplayjiemian">该界面用于显示最近播放过的歌曲</string>
+</resources>
